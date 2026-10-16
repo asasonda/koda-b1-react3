@@ -5,6 +5,6 @@ import User from "./components/User";
 export default function App() {
   
   return (
-    <User nama='dsgh' array='https://jsonplaceholder.typicode.com/users' />
+    <User nama="Kurtis Weissnat" array='https://jsonplaceholder.typicode.com/users' />
   );
 }
